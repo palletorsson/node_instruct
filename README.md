@@ -7,9 +7,9 @@ a read me to setup node application
 * $ touch package.json
 * $ nano package.json
 
-* add 
+- add 
 
------
+<pre>
 {
   "name": "node-api",
   "version": "1.0.0",
@@ -20,7 +20,8 @@ a read me to setup node application
         "body-parser": "~1.0.1"
     }
 }
----- 
-* save 
+</pre>
+
+- save 
 
 * $  npm install
