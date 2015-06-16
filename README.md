@@ -24,4 +24,6 @@ a read me to setup node application
 
 - save 
 
-* $  npm install
+* $ npm install
+
+* Install Postman - REST Client
