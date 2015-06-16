@@ -2,6 +2,10 @@
 a read me to setup node application 
 
 
+* install mongodb
+* https://www.mongodb.org/downloads
+
+* at the termial
 * $ mkdir nameofproject
 * $ cd nameofproject
 * $ touch package.json
@@ -27,3 +31,5 @@ a read me to setup node application
 * $ npm install
 
 * Install Postman - REST Client
+
+Angular : create a module, create a controller, and define functions 
