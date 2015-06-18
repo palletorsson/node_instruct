@@ -2,10 +2,9 @@
 a read me to setup node application 
 
 
-* install mongodb
-* https://www.mongodb.org/downloads
+* install mongodb from https://www.mongodb.org/downloads
 
-* at the termial
+* at the termial:
 * $ mkdir nameofproject
 * $ cd nameofproject
 * $ touch package.json
@@ -20,8 +19,7 @@ a read me to setup node application
   "main": "server.js",
   "dependencies": {
         "express": "~4.0.0",
-        "mongoose": "~3.6.13",
-        "body-parser": "~1.0.1"
+        "mongoose": "~3.6.13"
     }
 }
 </pre>
@@ -32,4 +30,5 @@ a read me to setup node application
 
 * Install Postman - REST Client
 
+Node: 
 Angular : create a module, create a controller, and define functions 
