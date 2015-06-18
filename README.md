@@ -43,8 +43,8 @@ app.listen(port);
 console.log("go to http://localhost:8080"); 
 </pre>
 
-HTML: public/index.html
---------------------
+HTML: public/index.html (Static)
+----------------------
 <pre> 
 
 <!DOCTYPE html>
