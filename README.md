@@ -31,27 +31,20 @@ a read me to setup node application
 
 Node: server.js (S)
 --------------
-* <pre> 
 
-// PACKAGE . express (init the app)
+<pre> 
 var express 	= require('express'); 
 var app 		  = express(); 
-
-// set the static files location (S)
 app.use(express.static(__dirname + '/public'));  
-
-
-// for everything else use angular view (S)
 app.get('*', function(req, res) {
         res.sendfile('./public/index.html'); // load the single view file (angular will handle the page changes on the front-end)
     });
 
-// set the port (S)
-var port = process.env.PORT || 8080;
-
-// make the app listen for requests (S)
+var port    = process.env.PORT || 8080;
 app.listen(port); 
+
 console.log("go to http://localhost:8080"); 
+
 </pre>
 
 * // PACKAGE . mongoose (set )
