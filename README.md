@@ -37,6 +37,8 @@ HTML: public/index.html (Static)
 ----------------------
 * https://github.com/palletorsson/node_instruct/blob/master/static/public/index.html
 
+* start and test static server. 
+
 * // PACKAGE . mongoose (set )
 * 
 Angular : create a module, create a controller, and define functions 
