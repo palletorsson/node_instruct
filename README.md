@@ -35,22 +35,7 @@ Node: server.js (Static)
 
 HTML: public/index.html (Static)
 ----------------------
-<pre> 
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Hello World</title>
-</head>
-<body>
-  <div class="container">
-    <div>
-      <h1>Hello World</h1>
-    </div>
-</body>
-</html>
-
-</pre>
 
 * // PACKAGE . mongoose (set )
 * 
