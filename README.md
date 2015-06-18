@@ -31,8 +31,10 @@ a read me to setup node application
 
 Node: server.js
 --------------
-
-
+* // PACKAGE . express (init the app)
+** katten
+* // PACKAGE . mongoose (set )
+* 
 Angular : create a module, create a controller, and define functions 
 
 * Start db cd in to mongo dir bin  * $ ./mongod
