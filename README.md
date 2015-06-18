@@ -29,9 +29,8 @@ a read me to setup node application
 
 * $ npm install
 
-Node: server.js (S)
+Node: server.js (Static)
 --------------
-
 <pre> 
 var express = require('express'); 
 var app = express(); 
