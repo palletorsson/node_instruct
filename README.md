@@ -31,11 +31,11 @@ a read me to setup node application
 
 Node: server.js (Static)
 --------------
-
+* https://github.com/palletorsson/node_instruct/blob/master/static/server.js
 
 HTML: public/index.html (Static)
 ----------------------
-
+* https://github.com/palletorsson/node_instruct/blob/master/static/public/index.html
 
 * // PACKAGE . mongoose (set )
 * 
