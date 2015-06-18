@@ -43,6 +43,30 @@ app.listen(port);
 console.log("go to http://localhost:8080"); 
 </pre>
 
+HTML: public/index.html
+--------------------
+<pre> 
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello World</title>
+</head>
+<!-- SET THE CONTROLLER AND GET ALL TODOS -->
+<body>
+    <div class="container">
+
+
+        <div>
+            <h1>Hello World</h1>
+        </div>
+
+</body>
+</html>
+<pre>
+
 * // PACKAGE . mongoose (set )
 * 
 Angular : create a module, create a controller, and define functions 
