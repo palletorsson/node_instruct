@@ -3,6 +3,7 @@ a read me to setup node application
 
 
 * install mongodb from https://www.mongodb.org/downloads
+* Install Postman - REST Client
 
 * at the termial:
 * $ mkdir nameofproject
@@ -28,7 +29,7 @@ a read me to setup node application
 
 * $ npm install
 
-* Install Postman - REST Client
-
 Node: 
 Angular : create a module, create a controller, and define functions 
+
+* Start db cd in to mongo dir bin  * $ ./mongod
