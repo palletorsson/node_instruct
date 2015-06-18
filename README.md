@@ -46,26 +46,21 @@ console.log("go to http://localhost:8080");
 HTML: public/index.html
 --------------------
 <pre> 
+
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- META -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello World</title>
+  <title>Hello World</title>
 </head>
-<!-- SET THE CONTROLLER AND GET ALL TODOS -->
 <body>
-    <div class="container">
-
-
-        <div>
-            <h1>Hello World</h1>
-        </div>
-
+  <div class="container">
+    <div>
+      <h1>Hello World</h1>
+    </div>
 </body>
 </html>
-<pre>
+
+</pre>
 
 * // PACKAGE . mongoose (set )
 * 
