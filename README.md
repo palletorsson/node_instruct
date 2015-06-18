@@ -15,7 +15,7 @@ a read me to setup node application
 
 <pre>
 {
-  "name": "node-api",
+  "name": "node-angular-api",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
@@ -29,7 +29,10 @@ a read me to setup node application
 
 * $ npm install
 
-Node: 
+Node: server.js
+--------------
+
+
 Angular : create a module, create a controller, and define functions 
 
 * Start db cd in to mongo dir bin  * $ ./mongod
